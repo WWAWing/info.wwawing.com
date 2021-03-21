@@ -10,15 +10,15 @@
   from = "/wing/spaceisland.html"
   to = "https://hirarira.net/wwa/bcdwwa/spaceisland/"
 
-# ヒラリラーのMP WWAページからの遷移対応 (拡張子が抜けている)
+# ヒラリラーのMP WWAページからの遷移対応 (拡張子が抜けている + 大文字小文字違い)
 [[redirects]]
-  from = "/wing/24LIFE/24LIFE"
+  from = "/wing/24life/24life"
   to = "https://archive.chashitsu.org/wing/24LIFE/24LIFE.html"
 
 # ヒラリラーのMP WWAページからの遷移対応 (拡張子が抜けている + 大文字小文字違い)
 [[reirects]]
-  from ="/wing/moneyxp"
-  to ="https://archive.chashitsu.org/wing/moneyXP.html"
+  from = "/wing/moneyxp"
+  to = "https://archive.chashitsu.org/wing/moneyXP.html"
 
 [[redirects]]
   from = "/*"

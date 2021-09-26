@@ -3,6 +3,10 @@
   to = "https://teatime.chashitsu.org/:splat"
 
 [[redirects]]
+  from = "/wing/24life/*"
+  to = "https://hirarira.net/wwa/24life/:splat"
+
+[[redirects]]
   from = "/wing/kuso6.html"
   to = "https://hirarira.net/wwa/kuso/kuso06/"
 
@@ -19,6 +23,30 @@
 [[redirects]]
   from = "/wing/moneyxp"
   to = "https://archive.chashitsu.org/wing/moneyXP.html"
+
+[[redirects]]
+  from ="/wing/moneyxp.html"
+  to = "https://hirarira.net/wwa/ssawwa/moneyxp/"
+
+[[redirects]]
+  from ="/wing/seikatsu.html"
+  to = "https://hirarira.net/wwa/ssawwa/seikatsu/"
+
+[[redirects]]
+  from = "/wing/kuso6"
+  to = "https://hirarira.net/wwa/kuso/kuso06/"
+
+[[redirects]]
+  from = "/wing/spaceisland"
+  to = "https://hirarira.net/wwa/bcdwwa/spaceisland/"
+
+[[redirects]]
+  from ="/wing/moneyxp"
+  to = "https://hirarira.net/wwa/ssawwa/moneyxp/"
+
+[[redirects]]
+  from ="/wing/seikatsu"
+  to = "https://hirarira.net/wwa/ssawwa/seikatsu/"
 
 [[redirects]]
   from = "/*"

@@ -1,8 +1,4 @@
 [[redirects]]
-  from = "/wiki/*"
-  to = "https://teatime.chashitsu.org/:splat"
-
-[[redirects]]
   from = "/wing/24life/*"
   to = "https://hirarira.net/wwa/24life/:splat"
 
